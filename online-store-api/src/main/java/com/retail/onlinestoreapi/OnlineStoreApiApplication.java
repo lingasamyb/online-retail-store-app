@@ -1,3 +1,5 @@
+/** AWS learning **/
+
 package com.retail.onlinestoreapi;
 
 import org.springframework.boot.SpringApplication;
